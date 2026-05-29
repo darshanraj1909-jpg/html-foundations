@@ -20,4 +20,4 @@ This repository contains standalone HTML files demonstrating the following conce
 Since these are plain HTML files, you do not need a local server to run them. 
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/yourusername/html-foundations.git](https://github.com/yourusername/html-foundations.git)
+   git clone[https://github.com/darshanraj1909-jpg/html-foundations.git]
